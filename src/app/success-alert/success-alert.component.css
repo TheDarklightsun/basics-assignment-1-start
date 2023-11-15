@@ -1,0 +1,9 @@
+.success {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid green;
+  background: greenyellow;
+  height: 50px;
+  width: 200px;
+}

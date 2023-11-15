@@ -1,0 +1,9 @@
+.warning {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
+  background: indianred;
+  height: 50px;
+  width: 200px;
+}
